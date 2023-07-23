@@ -19,7 +19,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <!-- jdk版本 -->
         <java.version>1.8</java.version>
-        <springboot.version>2.2.6.RELEASE</springboot.version>
+        <springboot.version>2.5.12</springboot.version>
         <!-- srpingboot与kafka版本对应页面: https://spring.io/projects/spring-kafka -->
         <spring.kafka.version>2.4.6.RELEASE</spring.kafka.version>
     </properties>
